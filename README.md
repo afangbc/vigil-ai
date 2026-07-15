@@ -1,5 +1,11 @@
 # Vigil AI 🚗👁️
 
+## What Does "Vigil" Mean?
+
+The word **vigil** means to remain awake, alert, and watchful — a state of careful attention and awareness. Vigil AI embodies this idea by acting as an intelligent safety companion that helps drivers stay aware when fatigue threatens their focus.
+
+Just as a vigil represents constant watchfulness, Vigil AI continuously monitors for signs of drowsiness and provides an extra layer of protection when drivers need it most.
+
 ## AI-Powered Driver Drowsiness Detection for Safer Roads
 
 Vigil AI is an intelligent driver monitoring system designed to detect signs of driver fatigue and drowsiness in real time. Using computer vision and machine learning, Vigil analyzes facial patterns, eye movements, and behavioral indicators to identify when a driver may be losing focus and provide timely alerts.
